@@ -200,7 +200,7 @@ visNetwork(nodes, edges = seqResult, width = 900, height = 700) %>%
 ```
 <img src ="https://github.com/pcastr/BigData_Analytics_R/blob/master/Cap04/files/img/nodes.png"/>
 
-### Especificandi em um clube
+### Especificando em um clube
 
 <img src= "https://github.com/pcastr/BigData_Analytics_R/blob/master/Cap04/files/img/nodes_barcelona.png">
 
